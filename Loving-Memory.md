@@ -12,7 +12,6 @@
 ```
 <img src='./img/MrsYang.png'>
 
-![Image text](./img/MrsYang.png)
 
 
 ## 序
