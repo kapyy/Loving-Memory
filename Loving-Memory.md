@@ -10,9 +10,9 @@
             想起你的样子
 
 ```
-<img src='./img/MrsYang.jpeg'>
+<img src='./img/MrsYang.png'>
 
-![Image text](./img/MrsYang.jpeg)
+![Image text](./img/MrsYang.png)
 
 
 ## 序
